@@ -26,7 +26,7 @@ namespace LTGCapcitor
         {
             Log.Init(Logger);
 
-            using (Stream bankStream = Assembly.GetExecutingAssembly().GetManifestResourceStream("LTGCapacitor.ThalassophobiaSounds.bnk"))
+            using (Stream bankStream = Assembly.GetExecutingAssembly().GetManifestResourceStream("LTGCapacitor.NOW.bnk"))
             {
                 var bytes = new byte[bankStream.Length];
                 bankStream.Read(bytes, 0, bytes.Length);

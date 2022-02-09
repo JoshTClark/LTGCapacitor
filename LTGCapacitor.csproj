@@ -13,11 +13,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Remove="ThalassophobiaSounds.bnk" />
+    <None Remove="NOW.bnk" />
   </ItemGroup>
 
   <ItemGroup>
-    <EmbeddedResource Include="ThalassophobiaSounds.bnk" />
+    <EmbeddedResource Include="NOW.bnk" />
   </ItemGroup>
 
   <ItemGroup>
