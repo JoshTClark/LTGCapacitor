@@ -1,9 +1,9 @@
 ﻿{
-    "name": "TestMod",
-    "version_number": "1.1.0",
-    "website_url": "",
-    "description": "This is a description for a mod. 250 characters max",
+    "name": "LTGCapacitor",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/JoshTClark/LTGCapacitor",
+    "description": "Mod that adds the LTG \"Now\" sound effect every time royal capacitor is used.",
     "dependencies": [
-        "MythicManiac-TestMod-1.1.0"
+        "bbepis-BepInExPack-5.4.1801"
     ]
 }
