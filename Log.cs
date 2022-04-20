@@ -1,6 +1,6 @@
 ﻿using BepInEx.Logging;
 
-namespace LTGCapcitor
+namespace LTGCapacitor
 {
     internal static class Log
     {

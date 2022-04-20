@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using UnityEngine;
 
-namespace LTGCapcitor
+namespace LTGCapacitor
 {
     class SimpleTimer : MonoBehaviour
     {
